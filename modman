@@ -1,0 +1,4 @@
+# Ash_FpcFix Mappings
+
+Ash_FpcFix.xml          app/etc/modules/Ash_FpcFix.xml
+code                    app/code/local/Ash/FpcFix/
